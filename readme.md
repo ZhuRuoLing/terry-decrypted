@@ -13,7 +13,7 @@
 
  - Process lines in `out.bat` that start with `%NGSX%` using `NGSX.kt`. The final content is in `final.bat`
 
- - The `final.bat` contains a powershell script that decrypt the excessively long line into a dll file, and load the dll by reflection.
+ - The `final.bat` contains a powershell script (`pwshs.ps1`) that decrypt the excessively long line into a dll file, and load the dll by reflection.
 
 I decrypted the dll file using the original powershell script and the decrypted file is `out.dll`
 
