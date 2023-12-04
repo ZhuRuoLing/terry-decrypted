@@ -1,7 +1,7 @@
 # Decrypted file of [Terry](https://github.com/GoblinDestroy/Terry)
 
 
-## The source repository might has been removed by Github
+## The source repository might has been removed
 
 ## Steps to decrypt
 
